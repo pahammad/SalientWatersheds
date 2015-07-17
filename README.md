@@ -9,7 +9,8 @@ Dependencies:
 	3. Texture (http://www.robots.ox.ac.uk/~vgg/research/texclass/) 
 
 Cite: 
-	S. Navlakha, P. Ahammad, E.W. Myers. Unsupervised Segmentation of Noisy Electron Microscopy Images Using Salient Watersheds and Region Merging. BMC Bioinformatics 2013.
+	S. Navlakha (*), P. Ahammad (*), E.W. Myers. Unsupervised Segmentation of Noisy Electron Microscopy Images Using Salient Watersheds and Region Merging. BMC Bioinformatics 2013.
+	(*) = Equal co-authors
 
 Contact:
 	S. Navlakha -- navlakha@cs.cmu.edu
